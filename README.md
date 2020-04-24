@@ -1,1 +1,1 @@
-![dapai](https://github.com/liuchunchang/daipai/blob/master/dapai.png)
+![dapai](https://github.com/liuchunchang/dapai/blob/master/dapai.png)
